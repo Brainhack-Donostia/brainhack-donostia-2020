@@ -1,2 +1,2 @@
-# brainhack-donostia-2020
-Main repository for Brainhack Donostia 2020
+# Brainhack Donostia 2020
+Welcome to Brainhack Donostia 2020!
