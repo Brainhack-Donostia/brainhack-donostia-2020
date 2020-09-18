@@ -15,7 +15,7 @@ We have prepared a checklist to help with your project submission. Here is how t
 
 Before filling in any part, please submit this issue
 Check items in the checklist below as you go through them
-Once you are done (at least all 'required' items must be provided), please delete the "Guidelines" section add a comment saying 'hi @ohbm/project-monitors: My project is ready!'
+Once you are done (at least all 'required' items must be provided), please delete the "Guidelines" section add a comment saying 'hi @Brainhack-Donostia/project-monitors: My project is ready!'
 Thank you!
 
 After step 1 (issue submitted), we will assign a 'project monitor' to follow your submission. If at any time you need help or anything is unclear, please add a comment and ping your project monitor. Our team is here to help! -->
