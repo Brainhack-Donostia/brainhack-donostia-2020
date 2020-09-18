@@ -9,7 +9,7 @@ assignees: ''
 
 <!-- Guidelines
 
-We are very excited to meet you at the 2020 OHBM Brainhack 🎉 To submit a project, you need to be an attendee of the 2020 OHBM Brainhack. We ask you to register first over here. Thank you!
+We are very excited to meet you at the 2020 Brainhack Donostia 🎉 To submit a project, you need to be an attendee of the 2020 Brainhack Donostia. We ask you to register first over here. Thank you!
 
 We have prepared a checklist to help with your project submission. Here is how to proceed:
 
